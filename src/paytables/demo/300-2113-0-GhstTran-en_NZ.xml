@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation language="en_NZ">
+<phrase key="softwareId" value="Software ID"/>
+<phrase key="transactionId" value="Transaction ID"/>
+<phrase key="totalWins" value="Total Wins"/>
+<phrase key="totalWager" value="Total Wager"/>
+<phrase key="winningNumbers" value="Lucky Numbers"/>
+<phrase key="yourNumbers" value="Your Numbers"/>
+<phrase key="youMatched" value="Matched"/>
+<phrase key="boardNumbers" value="Number"/>
+<phrase key="boardValues" value="Prize Value"/>
+<phrase key="BUY" value="Buy"/>
+<phrase key="TRY" value="Try"/>
+<phrase key="wagerType" value="Wager Type"/>
+<phrase key="1" value="Balloon_1"/>
+<phrase key="2" value="Balloon_2"/>
+<phrase key="3" value="Balloon_3"/>
+<phrase key="4" value="Balloon_4"/>
+<phrase key="5" value="Balloon_5"/>
+<phrase key="6" value="Balloon_6"/>
+<phrase key="7" value="Balloon_7"/>
+<phrase key="8" value="Balloon_8"/>
+<phrase key="9" value="Balloon_9"/>
+<phrase key="10" value="Balloon_10"/>
+<phrase key="11" value="Balloon_11"/>
+<phrase key="12" value="Balloon_12"/>
+<phrase key="13" value="Balloon_13"/>
+<phrase key="14" value="Balloon_14"/>
+<phrase key="15" value="Balloon_15"/>
+<phrase key="16" value="Balloon_16"/>
+<phrase key="17" value="Balloon_17"/>
+<phrase key="18" value="Balloon_18"/>
+<phrase key="game" value="Game"/>
+<phrase key="outcome" value="Outcome"/>
+<phrase key="noMatch" value="None"/>
+</translation>
